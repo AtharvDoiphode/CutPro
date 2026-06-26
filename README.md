@@ -204,22 +204,7 @@ Barbers can configure:
 
 ---
 
-# 📷 Screenshots
 
-> Add screenshots after deployment.
-
-Examples:
-
-- Home Page
-- Booking Page
-- Customer Dashboard
-- Barber Dashboard
-- Queue Page
-- Availability Management
-- Reviews
-- Appointment Summary
-
----
 
 # 🚀 Installation
 
@@ -350,22 +335,3 @@ This project demonstrates practical implementation of:
 - PDF Invoice Generation
 
 ---
-
-# 👨‍💻 Author
-
-**Atharva Doiphode**
-
-B.Tech Information Technology
-
-VIIT Pune
-
-GitHub:
-https://github.com/AtharvDoiphode
-
----
-
-# ⭐ Support
-
-If you found this project helpful, consider giving it a ⭐ on GitHub.
-
-It helps others discover the project and motivates future improvements.
